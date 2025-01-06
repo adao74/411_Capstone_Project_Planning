@@ -6,5 +6,5 @@ My capstone project is a Wishlist App.
 
 - Create an Account
 - Sign in
-- Create a Wishlist from items retrieved from the Best Buy API
+- Create a Wishlist from items retrieved from the [Best Buy API](https://bestbuyapis.github.io/api-documentation/)
 - Delete a Wishlist
